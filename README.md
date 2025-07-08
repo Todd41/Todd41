@@ -1,16 +1,34 @@
-## Hi there 👋
+![Profile Banner](https://avatars.githubusercontent.com/u/toddms41?v=4)
 
-<!--
-**Todd41/Todd41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Todd41!
 
-Here are some ideas to get you started:
+🚀 **Site Reliability Engineer**  
+🌐 Specializing in cloud, automation, and reliability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tools
+
+- **Cloud:** AWS, Azure, Elastic Beanstalk
+- **DevOps:** Git, CI/CD, Automation
+- **Other:** Infrastructure as Code, Monitoring, Scripting
+
+---
+
+## 🎸 Hobbies & Interests
+
+- 🎵 Guitar enthusiast
+- ⛳ Avid golfer
+- 🎮 Gamer
+
+---
+
+## 🌟 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-toddmsmith41-blue?logo=linkedin)](https://www.linkedin.com/in/toddmsmith41/)
+
+---
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="150" alt="Todd41's profile image">
+</p>
