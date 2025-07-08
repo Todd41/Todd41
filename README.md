@@ -1,4 +1,4 @@
-![Profile Banner](https://avatars.githubusercontent.com/u/toddms41?v=4)
+![Profile Banner](https://avatars.githubusercontent.com/u/Todd41?v=4)
 
 # 👋 Hi, I'm Todd41!
 
