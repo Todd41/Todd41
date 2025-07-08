@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1625838144804-300f3907c110?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="650" alt="Todd41's profile image">
+  <img src="https://images.unsplash.com/photo-1667372335936-3dc4ff716017?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZGV2b3BzfGVufDB8MHwwfHx8Mg%3D%3D" width="250" alt="Todd41's profile image">
 </p>
 
 # 👋 Hi, I'm Todd41!
