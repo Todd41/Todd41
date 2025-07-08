@@ -1,4 +1,6 @@
-![Profile Banner](https://images.unsplash.com/photo-1625838144804-300f3907c110?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1625838144804-300f3907c110?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="650" alt="Todd41's profile image">
+</p>
 
 # 👋 Hi, I'm Todd41!
 
