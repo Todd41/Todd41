@@ -1,4 +1,4 @@
-![Profile Banner](https://avatars.githubusercontent.com/u/Todd41?v=4)
+![Profile Banner](https://avatars.githubusercontent.com/u/Todd41?v=3)
 
 # 👋 Hi, I'm Todd41!
 
@@ -30,5 +30,5 @@
 ---
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="150" alt="Todd41's profile image">
+  <img src="https://avatars.githubusercontent.com/u/Todd41?v=3" width="150" alt="Todd41's profile image">
 </p>
